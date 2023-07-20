@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: chartreuse;
+    background-color: crimson;
+}
+input{
+    margin: 10px;   
+}
+#sumbit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
